@@ -7,10 +7,10 @@
   <body>
     <h2> Página com mulheres que fizeram grandes feitos na tecnologia </h2>
     <h3> Tecnologias usadas </h3>
-    <ul>
+    <ol>
       <h4> HTML </h4>
       <h4> CSS </h4>
-    </ul>
+    </ol>
   </body>
 </html>
 
