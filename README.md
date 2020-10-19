@@ -10,7 +10,7 @@
     <ul>
       <h4> HTML </h4>
       <h4> CSS </h4>
-      <ul>
+    </ul>
   </body>
 </html>
 
